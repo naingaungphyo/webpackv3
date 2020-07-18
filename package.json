@@ -1,0 +1,11 @@
+{
+  "name": "webpackv3",
+  "version": "1.0.0",
+  "description": "setting up webpackv3 workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naing",
+  "license": "ISC"
+}
