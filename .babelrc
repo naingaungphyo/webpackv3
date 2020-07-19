@@ -1,0 +1,16 @@
+{
+  "presets": [
+    // target environment we want to support
+    [
+      "env",
+      {
+        "targets": {
+          "browsers": ["> 1%", "last 2 versions"] // 1% of market share  OR last 2 versions
+        }
+      }
+    ],
+    "stage-2",
+    "react"
+  ],
+  "plugins": ["syntax-dynamic-import"]
+}
